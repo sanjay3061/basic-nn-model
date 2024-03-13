@@ -44,8 +44,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:Gowtham
-### Register Number:212222220013
+### Name:R.sanjay
+### Register Number:212222220038
 ```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -58,7 +58,7 @@ from google.auth import default
 auth.authenticate_user()
 creds, _ = default()
 gc = gspread.authorize(creds)
-worksheet = gc.open('Gowtham').sheet1
+worksheet = gc.open('sanjay').sheet1
 data = worksheet.get_all_values()
 dataset1 = pd.DataFrame(data[1:], columns=data[0])
 dataset1 = dataset1.astype({'input':'int'})
