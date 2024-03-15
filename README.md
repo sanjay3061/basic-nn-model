@@ -10,7 +10,8 @@ A neural network is a computer program inspired by how our brains work. It's use
 
 ## Neural Network Model
 
-![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/c4ca3e0d-fffd-4834-8dfd-4051489d82a3)
+![Screenshot 2024-03-13 145644](https://github.com/sanjay3061/basic-nn-model/assets/121215929/172b7b6e-73f9-4780-acc4-5496c9737214)
+
 
 
 ## DESIGN STEPS
@@ -84,17 +85,19 @@ X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
-![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/cd16b328-9e91-43d6-b3f2-e3a8824baf41)
+![Screenshot 2024-03-13 143642](https://github.com/sanjay3061/basic-nn-model/assets/121215929/c210bd8f-9f25-4535-89a5-583a36ad4207)
+
 
 ## OUTPUT
 ### Training Loss Vs Iteration Plot
-![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/363a3f16-3265-495b-b6f9-15c59337c75f)
+![image](https://github.com/sanjay3061/basic-nn-model/assets/121215929/02b123f9-cd73-49b3-811e-d1174a4ea0cf)
+
 
 ### Test Data Root Mean Squared Error
-![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/c6c95b2c-034f-4d5d-b0c5-ac986e381050)
+![image](https://github.com/sanjay3061/basic-nn-model/assets/121215929/20133453-a548-4e66-8977-7e8814b38dfa)
 
 ## New Sample Data Prediction
-![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/ec24ceda-b098-4045-ba4b-b3d8cc0730d7)
+![image](https://github.com/sanjay3061/basic-nn-model/assets/121215929/0197d522-4ac9-4ae7-8ede-d537b05f1909)
 
 ## RESULT
 Thus to develop a neural network regression model for the dataset created is successfully executed.
